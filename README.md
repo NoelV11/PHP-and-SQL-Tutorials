@@ -12,7 +12,7 @@ PHP is a programming language used to connect databases and interact with the ba
 ## Functionalities of SQL
 - Maintain records
 - Ability to define type of data to be stored in them
-- Used as data collection,on websites,for form fillups,information gathering etc
+- Used as data collection,on websites,for form fillups,information gathering etc.
 - It has a database,table,row,column heirarchy
 
 ## Motivation
